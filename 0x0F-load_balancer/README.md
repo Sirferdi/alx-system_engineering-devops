@@ -1,1 +1,1 @@
-Elastic COmpute Cloud load balancer
+# Load Balancer
